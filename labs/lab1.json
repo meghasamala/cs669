@@ -1,0 +1,27 @@
+[
+    {
+        "movie_name": "Spiderman",
+        "rating": "7",
+        "reviewer_name": "Bob"
+    },
+    {
+        "movie_name": "Dune",
+        "rating": "9",
+        "reviewer_name": "Bob"
+    },
+    {
+        "movie_name": "Midsommar",
+        "rating": "8",
+        "reviewer_name": "Sarah"
+    },
+    {
+        "movie_name": "Kingsman",
+        "rating": "6",
+        "reviewer_name": "John"
+    },
+    {
+        "movie_name": "Barbie",
+        "rating": "5",
+        "reviewer_name": "Bob"
+    }
+] 
